@@ -1,5 +1,6 @@
 ---
-Tytuł: Rozporządzenie Ministra Infrastruktury z dnia 3 lipca 2003 r. w sprawie szczegółowych warunków technicznych dla znaków i sygnałów drogowych oraz urządzeń bezpieczeństwa ruchu drogowego i warunków ich umieszczania na drogach
+Tytuł aktu prawnego: Rozporządzenie Ministra Infrastruktury z dnia 3 lipca 2003 r. w sprawie szczegółowych warunków technicznych dla znaków i sygnałów drogowych oraz urządzeń bezpieczeństwa ruchu drogowego i warunków ich umieszczania na drogach
+
 ---
 
 # 3.3.5.2. Sygnalizatory akustyczne dla pieszych
@@ -30,3 +31,22 @@ Sygnał pomocniczy powinien być dźwiękiem tego samego rodzaju, co sygnał pod
 Sygnalizatory dźwiękowe nie mogą występować w postaci dodatkowej komory sygnałowej zblokowanej (połączonej) z sygnalizatorem dla pieszych.
 
 Zaleca się, aby ostrzegać niepełnosprawnych pieszych o awarii sygnalizacji w postaci stosownego słownego komunikatu, np. "sygnalizacja wyłączona", "sygnalizacja uszkodzona", "awaria sygnalizacji".
+
+# 4.3. Sygnały dla pieszych
+
+Sygnały dla pieszych stosuje się wyłącznie na wyznaczonych przejściach zarówno w obrębie skrzyżowań z sygnalizacją, jak i poza nimi, a także na przejściach przez wydzielone torowisko dla pojazdów szynowych. Stosuje się następujące sygnały w kształcie pieszego:
+- sygnał czerwony oznaczający zakaz wejścia na jezdnię lub torowisko,
+- sygnał zielony oznaczający zezwolenie na przechodzenie,
+- sygnał zielony migający oznaczający zezwolenie na przechodzenie, lecz nakazujący jak najszybsze jego zakończenie; sygnał ten jednocześnie informuje, że za chwilę zapali się sygnał czerwony.
+
+Zaleca się łączenie sygnalizacji świetlnej na przejściach dla pieszych z sygnalizacją dźwiękową i/lub wibracyjną, informującą osoby z dysfunkcją wzroku lub wzroku i słuchu o rodzaju nadawanych sygnałów. Łączne stosowanie obu rodzajów sygnalizacji jest obowiązkowe w przypadku lokalizacji przejść dla pieszych (odosobnionych i w ramach skrzyżowań) w pobliżu ośrodków dla osób niepełnosprawnych lub gdzie istnieje prawdopodobieństwo korzystania przez takie osoby z przejść dla pieszych.
+
+Stosowanie sygnałów akustycznych w przypadku usytuowania elementów nadających te sygnały w bezpośredniej bliskości budynków mieszkalnych (np. przy chodnikach węższych niż 3 metry) jest niedozwolone. W takich przypadkach należy zastąpić sygnały akustyczne sygnałami wibracyjnymi. Sygnały dla pieszych nadawane być mogą tylko w sekwencji:
+
+czerwony → zielony → zielony migający → czerwony
+
+wraz z odpowiadającymi im sygnałami akustycznymi i/lub wibracyjnymi. Do nadawania sygnałów dla pieszych przeznaczone są wyłącznie sygnalizatory dwukomorowe S-5 pokazane (wraz z sekwencją sygnałów) na rysunku 4.3.1.
+
+grafika
+
+Rys. 4.3.1. Sygnalizator S-5 dla pieszych z sekwencją nadawanych sygnałów
