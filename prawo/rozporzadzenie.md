@@ -1,6 +1,8 @@
-# Rozporządzenie Ministra Infrastruktury z dnia 3 lipca 2003 r. w sprawie szczegółowych warunków technicznych dla znaków i sygnałów drogowych oraz urządzeń bezpieczeństwa ruchu drogowego i warunków ich umieszczania na drogach
+---
+Tytuł: Rozporządzenie Ministra Infrastruktury z dnia 3 lipca 2003 r. w sprawie szczegółowych warunków technicznych dla znaków i sygnałów drogowych oraz urządzeń bezpieczeństwa ruchu drogowego i warunków ich umieszczania na drogach
+---
 
-## 3.3.5.2. Sygnalizatory akustyczne dla pieszych
+# 3.3.5.2. Sygnalizatory akustyczne dla pieszych
 
 Sygnalizatory akustyczne dla pieszych powinny zapewnić nadawanie sygnałów zezwalających na przechodzenie przez jezdnię lub torowisko tramwajowe wyłącznie podczas nadawania sygnału zielonego dla pieszych, przy czym sygnał dźwiękowy odpowiadający sygnałowi zielonemu ciągłemu powinien różnić się od sygnału dźwiękowego odpowiadającego sygnałowi zielonemu migającemu oraz sygnał dźwiękowy zezwalający na przejście przez jezdnię powinien różnić się od sygnału dźwiękowego zezwalającego na przejście przez torowisko tramwajowe.
 Pomocnicze sygnały dźwiękowe nadawane podczas sygnału czerwonego powinny różnić się w zasadniczy sposób od sygnałów będących odpowiednikiem sygnału zielonego ciągłego i migającego.
