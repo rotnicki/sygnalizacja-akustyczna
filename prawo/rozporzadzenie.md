@@ -1,6 +1,6 @@
 ---
 Tytuł aktu prawnego: Rozporządzenie Ministra Infrastruktury z dnia 3 lipca 2003 r. w sprawie szczegółowych warunków technicznych dla znaków i sygnałów drogowych oraz urządzeń bezpieczeństwa ruchu drogowego i warunków ich umieszczania na drogach
-
+Wersja obowiązująca od: 2022-12-06
 ---
 
 # 3.3.5.2. Sygnalizatory akustyczne dla pieszych
