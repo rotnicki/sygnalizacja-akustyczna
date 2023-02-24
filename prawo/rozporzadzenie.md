@@ -57,7 +57,7 @@ Sygnały dla pieszych stosuje się wyłącznie na wyznaczonych przejściach zar�
 
 - sygnał czerwony oznaczający zakaz wejścia na jezdnię lub torowisko,
 - sygnał zielony oznaczający zezwolenie na przechodzenie,
-- trzy
+- trzy sygnał zielony migający oznaczający zezwolenie na przechodzenie, lecz nakazujący jak najszybsze jego zakończenie; sygnał ten jednocześnie informuje, że za chwilę zapali się sygnał czerwony.
 
 – sygnał czerwony oznaczający zakaz wejścia na jezdnię lub torowisko,
 – sygnał zielony oznaczający zezwolenie na przechodzenie,
