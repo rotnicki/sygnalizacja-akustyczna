@@ -57,11 +57,7 @@ Sygnały dla pieszych stosuje się wyłącznie na wyznaczonych przejściach zar�
 
 - sygnał czerwony oznaczający zakaz wejścia na jezdnię lub torowisko,
 - sygnał zielony oznaczający zezwolenie na przechodzenie,
-- trzy sygnał zielony migający oznaczający zezwolenie na przechodzenie, lecz nakazujący jak najszybsze jego zakończenie; sygnał ten jednocześnie informuje, że za chwilę zapali się sygnał czerwony.
-
-– sygnał czerwony oznaczający zakaz wejścia na jezdnię lub torowisko,
-– sygnał zielony oznaczający zezwolenie na przechodzenie,
-– sygnał zielony migający oznaczający zezwolenie na przechodzenie, lecz nakazujący jak najszybsze jego zakończenie; sygnał ten jednocześnie informuje, że za chwilę zapali się sygnał czerwony.
+- sygnał zielony migający oznaczający zezwolenie na przechodzenie, lecz nakazujący jak najszybsze jego zakończenie; sygnał ten jednocześnie informuje, że za chwilę zapali się sygnał czerwony.
 
 Zaleca się łączenie sygnalizacji świetlnej na przejściach dla pieszych z sygnalizacją dźwiękową i/lub wibracyjną, informującą osoby z dysfunkcją wzroku lub wzroku i słuchu o rodzaju nadawanych sygnałów. Łączne stosowanie obu rodzajów sygnalizacji jest obowiązkowe w przypadku lokalizacji przejść dla pieszych (odosobnionych i w ramach skrzyżowań) w pobliżu ośrodków dla osób niepełnosprawnych lub gdzie istnieje prawdopodobieństwo korzystania przez takie osoby z przejść dla pieszych.
 
