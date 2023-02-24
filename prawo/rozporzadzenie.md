@@ -56,7 +56,7 @@ Przyciski lub wibrator muszą mieć możliwość nadawania sygnału wibrującego
 Sygnały dla pieszych stosuje się wyłącznie na wyznaczonych przejściach zarówno w obrębie skrzyżowań z sygnalizacją, jak i poza nimi, a także na przejściach przez wydzielone torowisko dla pojazdów szynowych. Stosuje się następujące sygnały w kształcie pieszego:
 
 - sygnał czerwony oznaczający zakaz wejścia na jezdnię lub torowisko,
-- dwa sygnał zielony oznaczający zezwolenie na przechodzenie,
+- sygnał zielony oznaczający zezwolenie na przechodzenie,
 - trzy
 
 – sygnał czerwony oznaczający zakaz wejścia na jezdnię lub torowisko,
