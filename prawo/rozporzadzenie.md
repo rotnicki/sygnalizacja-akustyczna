@@ -44,7 +44,6 @@ Sygnały wibracyjne powinny mieć taki sam czas powtarzania jak sygnały dźwię
 
 - podstawowy sygnał wibracyjny zezwalający na przechodzenie i będący odpowiednikiem sygnału zielonego ciągłego – co 200 ms ± 5%,
 - sygnał wibracyjny odpowiadający sygnałowi zielonemu migającemu – co 100 ms ± 5%.
-- ??????
 
 Sygnał wibracyjny powinien być nadawany w sposób automatyczny lub wymuszony przyciskiem wibratora.
 
@@ -56,7 +55,7 @@ Przyciski lub wibrator muszą mieć możliwość nadawania sygnału wibrującego
 
 Sygnały dla pieszych stosuje się wyłącznie na wyznaczonych przejściach zarówno w obrębie skrzyżowań z sygnalizacją, jak i poza nimi, a także na przejściach przez wydzielone torowisko dla pojazdów szynowych. Stosuje się następujące sygnały w kształcie pieszego:
 
-- raz sygnał czerwony oznaczający zakaz wejścia na jezdnię lub torowisko,
+- sygnał czerwony oznaczający zakaz wejścia na jezdnię lub torowisko,
 - dwa sygnał zielony oznaczający zezwolenie na przechodzenie,
 - trzy
 
