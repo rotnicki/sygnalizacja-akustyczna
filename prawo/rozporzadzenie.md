@@ -41,6 +41,7 @@ Jako system uzupełniający sygnalizację optyczną i dźwiękową można stosow
 Wibracje powinny być wyraźnie wyczuwalne dotykiem po położeniu ręki na obudowie przycisku lub wibratora.
 
 Sygnały wibracyjne powinny mieć taki sam czas powtarzania jak sygnały dźwiękowe:
+
 – podstawowy sygnał wibracyjny zezwalający na przechodzenie i będący odpowiednikiem sygnału zielonego ciągłego – co 200 ms ± 5%,
 – sygnał wibracyjny odpowiadający sygnałowi zielonemu migającemu – co 100 ms ± 5%.
 
