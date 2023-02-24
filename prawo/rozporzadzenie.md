@@ -34,7 +34,7 @@ Sygnalizatory dźwiękowe nie mogą występować w postaci dodatkowej komory syg
 
 Zaleca się, aby ostrzegać niepełnosprawnych pieszych o awarii sygnalizacji w postaci stosownego słownego komunikatu, np. "sygnalizacja wyłączona", "sygnalizacja uszkodzona", "awaria sygnalizacji".
 
-## 3.3.5.3. Sygnalizatory wibracyjne
+# 3.3.5.3. Sygnalizatory wibracyjne
 
 Jako system uzupełniający sygnalizację optyczną i dźwiękową można stosować dotykowe sygnalizatory wibracyjne umieszczone w przyciskach dla pieszych lub jako urządzenia samoistne, zachowując zasady montażu jak dla przycisków dla pieszych określone w pkt 3.3.5.1.
 
