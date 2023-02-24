@@ -42,8 +42,9 @@ Wibracje powinny być wyraźnie wyczuwalne dotykiem po położeniu ręki na obud
 
 Sygnały wibracyjne powinny mieć taki sam czas powtarzania jak sygnały dźwiękowe:
 
-– podstawowy sygnał wibracyjny zezwalający na przechodzenie i będący odpowiednikiem sygnału zielonego ciągłego – co 200 ms ± 5%,
-– sygnał wibracyjny odpowiadający sygnałowi zielonemu migającemu – co 100 ms ± 5%.
+- podstawowy sygnał wibracyjny zezwalający na przechodzenie i będący odpowiednikiem sygnału zielonego ciągłego – co 200 ms ± 5%,
+- sygnał wibracyjny odpowiadający sygnałowi zielonemu migającemu – co 100 ms ± 5%.
+- ??????
 
 Sygnał wibracyjny powinien być nadawany w sposób automatyczny lub wymuszony przyciskiem wibratora.
 
