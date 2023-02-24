@@ -34,6 +34,22 @@ Sygnalizatory dźwiękowe nie mogą występować w postaci dodatkowej komory syg
 
 Zaleca się, aby ostrzegać niepełnosprawnych pieszych o awarii sygnalizacji w postaci stosownego słownego komunikatu, np. "sygnalizacja wyłączona", "sygnalizacja uszkodzona", "awaria sygnalizacji".
 
+## 3.3.5.3. Sygnalizatory wibracyjne
+
+Jako system uzupełniający sygnalizację optyczną i dźwiękową można stosować dotykowe sygnalizatory wibracyjne umieszczone w przyciskach dla pieszych lub jako urządzenia samoistne, zachowując zasady montażu jak dla przycisków dla pieszych określone w pkt 3.3.5.1.
+
+Wibracje powinny być wyraźnie wyczuwalne dotykiem po położeniu ręki na obudowie przycisku lub wibratora.
+
+Sygnały wibracyjne powinny mieć taki sam czas powtarzania jak sygnały dźwiękowe:
+– podstawowy sygnał wibracyjny zezwalający na przechodzenie i będący odpowiednikiem sygnału zielonego ciągłego – co 200 ms ± 5%,
+– sygnał wibracyjny odpowiadający sygnałowi zielonemu migającemu – co 100 ms ± 5%.
+
+Sygnał wibracyjny powinien być nadawany w sposób automatyczny lub wymuszony przyciskiem wibratora.
+
+Jeśli dotyk przycisku lub wibratora nastąpi podczas nadawania sygnału zielonego, to sygnał wibracyjny powinien wskazywać stan sygnalizacji optycznej przez okres od 10 do 15 sekund.
+
+Przyciski lub wibrator muszą mieć możliwość nadawania sygnału wibrującego trwającego 1000 ms ± 5% potwierdzającego przyjęcie zgłoszenia przez sterownik.”;
+
 # 4.3. Sygnały dla pieszych
 
 Sygnały dla pieszych stosuje się wyłącznie na wyznaczonych przejściach zarówno w obrębie skrzyżowań z sygnalizacją, jak i poza nimi, a także na przejściach przez wydzielone torowisko dla pojazdów szynowych. Stosuje się następujące sygnały w kształcie pieszego:
