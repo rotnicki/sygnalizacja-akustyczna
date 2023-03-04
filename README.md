@@ -1,3 +1,5 @@
 # sygnalizacja-akustyczna
 
-Sygnalizacja akustyczna na przejściach dla pieszych w Polsce.
+Informacje dotyczące sygnalizacji akustycznej na przejściach dla pieszych w Polsce:
+* aktualnie obowiązujące przepisy regulujące kwestie sygnalizacjia akustycznej i wibracyjnej
+* wzory dopuszczalnych dźwięków odpowiadających poszczególnym sygnałom świetlnym na różnych rodzajach przejść dla pieszych
